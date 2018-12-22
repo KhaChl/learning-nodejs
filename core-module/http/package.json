@@ -1,0 +1,11 @@
+{
+  "name": "http-test",
+  "version": "0.0.1",
+  "description": "test http",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kevin",
+  "license": "ISC"
+}
